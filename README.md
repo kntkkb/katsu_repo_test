@@ -1,2 +1,2 @@
-# test2
+# katsu_repo_test
 repository for test
